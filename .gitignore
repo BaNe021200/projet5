@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+/vendor/
+/.idea/
+/test.php
+/public/assets/
+/public/dist/css/
+/public/dist/js/
+/users/
+/public/img/
+/public/theme/
+/tmp/
+/.htaccess
